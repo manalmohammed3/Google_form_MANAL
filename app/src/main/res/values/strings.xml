@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">google_form</string>
+    <string name="sign_in_insted">sign_in_insted</string>
+    <string name="next">next</string>
+    <string name="show_password">show_password</string>
+    <string name="use_8_or_more_characters_with_a_max_of_letters_numbers_symbols">use 8 or more characters with a max of letters numbers symbols</string>
+    <string name="re_passowrd">re_passowrd</string>
+    <string name="passowrd">passowrd</string>
+    <string name="use_my_current_email_address_instead">use my current email address instead</string>
+    <string name="you_can_use_letters_numbers_periods">you can use letters numbers periods</string>
+    <string name="username">username</string>
+    <string name="gmail_com">gmail_com</string>
+    <string name="second_name">second_name</string>
+    <string name="first_name">first_name</string>
+    <string name="create_your_google_accouunt">create your google accouunt</string>
+    <string name="email">email</string>
+</resources>
